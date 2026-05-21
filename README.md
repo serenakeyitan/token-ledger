@@ -4,6 +4,7 @@
 
 Track OpenAI Guaranteed Capacity contracts, startup token grants ($2M YC program, Anthropic for Startups, etc.), and prepaid credits — all in one place. Know your burn rate. Know your runway. Never get surprised by an expiring grant.
 
+### check out my lastest work on [first-tree repo](https://github.com/agent-team-foundation/first-tree)
 ```
 $ token-ledger status
 
