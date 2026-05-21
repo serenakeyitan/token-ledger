@@ -128,3 +128,7 @@ token-ledger --dir /path/to/dir status
 ## License
 
 Apache 2.0
+
+---
+
+*Built as part of my work on [first-tree](https://github.com/unispark-inc/first-tree) — shared context infrastructure for agent teams.*
